@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushiiseait02/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/khushiiseait02/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/khushiiseait02/Leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushiiseait02/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/khushiiseait02/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/khushiiseait02/Leetcode/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
