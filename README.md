@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushiiseait02/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushiiseait02/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/khushiiseait02/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/khushiiseait02/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/khushiiseait02/Leetcode/tree/master/0344-reverse-string) |
 ## String Matching
@@ -57,4 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/khushiiseait02/Leetcode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/khushiiseait02/Leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/khushiiseait02/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/khushiiseait02/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
